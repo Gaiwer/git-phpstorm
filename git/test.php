@@ -1,3 +1,3 @@
 <?php
-echo("Test platform40 !");
+echo("Test platform40 777!");
 ?>
